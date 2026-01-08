@@ -112,6 +112,7 @@ section > header[role="presentation"]{
 p[epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-align: initial;
+	text-indent: 0;
 }
 
 footer{
