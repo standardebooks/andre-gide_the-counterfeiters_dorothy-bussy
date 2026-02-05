@@ -90,7 +90,6 @@ p span.i1{
 }
 /* End poems */
 
-#chapter-3-8 blockquote,
 p[epub|type~="z3998:salutation"],
 p[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
@@ -100,6 +99,7 @@ p[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
+blockquote[epub|type~="z3998:letter"] header[epub|type~="se:letter.dateline"],
 blockquote[epub|type~="z3998:letter"] header [epub|type~="se:letter.dateline"]{
 	text-align: right;
 }
@@ -126,7 +126,7 @@ blockquote[xml|lang]{
 
 #dedication,
 #chapter-1-11 blockquote,
-#chapter-2-5 blockquote,
+#chapter-2-5 > blockquote:first-of-type,
 #chapter-3-18 blockquote{
 	font-variant: small-caps;
 	text-align: center;
