@@ -70,10 +70,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50039043</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Hannah Wilson</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Hannah, Wilson</meta>
+		<meta property="file-as" refines="#transcriber-1">Wilson, Hannah</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Laura Natal</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Laura, Natal</meta>
+		<meta property="file-as" refines="#transcriber-2">Natal, Laura</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
