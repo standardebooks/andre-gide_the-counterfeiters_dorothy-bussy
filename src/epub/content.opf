@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/andre-gide/the-counterfeiters/dorothy-bussy</dc:identifier>
 		<dc:date>2026-02-05T23:00:11Z</dc:date>
@@ -40,12 +40,12 @@
 		<meta id="collection" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection">set</meta>
 		<meta property="group-position" refines="#collection">30</meta>
-		<dc:description id="description">A writer composing a novel crosses paths with a ring of counterfeiters.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A writer composing a novel crosses paths with a ring of counterfeiters.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Counterfeiters&lt;/i&gt; is considered to be &lt;a href="https://standardebooks.org/ebooks/andre-gide"&gt;André Gide’s&lt;/a&gt; magnum opus. The plot kicks off in 1920s Paris when Bernard, a young man preparing for a school examination, decides to run away from home. As he bounces around the city with his school friends, he meets Édouard, a writer who’s composing a novel titled &lt;i&gt;The Counterfeiters&lt;/i&gt;—a novel-within-a-novel. We’re soon introduced to more and more characters, and their relationships and aspirations begin to swirl in a complex interplay, including a ring of counterfeiters trying to pass fake gold coins, a series of homoerotic affairs, and a nefarious count.&lt;/p&gt;
 			&lt;p&gt;Gide was inspired by the Cubist movement in how he arranged the characters and plot, leading to unresolved plot lines, fractured timelines, and a kaleidoscopic narrative. Contemporary critics like &lt;a href="https://standardebooks.org/ebooks/e-m-forster"&gt;E. M. Forster&lt;/a&gt; praised the attempt, but ultimately found it too confusing to be successful.&lt;/p&gt;
 			&lt;p&gt;The novel is also a roman-a-clef, in which Édouard is a stand-in for Gide himself, and some of his contemporaries like Jean Cocteau, Marc Allégret, and Eugénie Sokolnicka are reflected in various characters. The novel is also notable for its frank depiction of not one, but several homosexual relationships.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76965</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Counterfeiters/ElYp2GGsHv8C</dc:source>
