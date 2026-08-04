@@ -40,7 +40,7 @@
 		<meta id="collection" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection">set</meta>
 		<meta property="group-position" refines="#collection">30</meta>
-		<dc:abstract>A writer composing a novel crosses paths with a ring of counterfeiters.</dc:abstract>
+		<meta property="schema:abstract">A writer composing a novel crosses paths with a ring of counterfeiters.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Counterfeiters&lt;/i&gt; is considered to be &lt;a href="https://standardebooks.org/ebooks/andre-gide"&gt;André Gide’s&lt;/a&gt; magnum opus. The plot kicks off in 1920s Paris when Bernard, a young man preparing for a school examination, decides to run away from home. As he bounces around the city with his school friends, he meets Édouard, a writer who’s composing a novel titled &lt;i&gt;The Counterfeiters&lt;/i&gt;—a novel-within-a-novel. We’re soon introduced to more and more characters, and their relationships and aspirations begin to swirl in a complex interplay, including a ring of counterfeiters trying to pass fake gold coins, a series of homoerotic affairs, and a nefarious count.&lt;/p&gt;
 			&lt;p&gt;Gide was inspired by the Cubist movement in how he arranged the characters and plot, leading to unresolved plot lines, fractured timelines, and a kaleidoscopic narrative. Contemporary critics like &lt;a href="https://standardebooks.org/ebooks/e-m-forster"&gt;E. M. Forster&lt;/a&gt; praised the attempt, but ultimately found it too confusing to be successful.&lt;/p&gt;
